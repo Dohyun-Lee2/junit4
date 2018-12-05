@@ -9,5 +9,5 @@ import org.junit.runners.Suite.SuiteClasses;
         PrintableResultTest.class,
         ResultMatchersTest.class
 })
-public class AllResultsTests {
+public class AllResultsTests { // NOPMD by CHAMP13 on 18. 12. 4 ?? 4:47
 }
